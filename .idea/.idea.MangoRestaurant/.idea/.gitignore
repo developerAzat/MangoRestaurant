@@ -12,5 +12,5 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 # Ignore any files in /bin and /obj Folders
-**/bin/*
-**/obj/*
+/bin
+/obj
