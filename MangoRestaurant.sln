@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{40
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{EB501561-9320-434A-A91B-2F8106A7D7A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{837532DA-EBB1-4F6B-94B2-B6A2735DB7BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,5 +25,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EB501561-9320-434A-A91B-2F8106A7D7A0} = {40D42574-6C6F-42A5-8F39-1B9CEE786AA7}
+		{9A680AD4-4E03-47F6-996A-82C483B6B9A5} = {837532DA-EBB1-4F6B-94B2-B6A2735DB7BC}
 	EndGlobalSection
 EndGlobal
